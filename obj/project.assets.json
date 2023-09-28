@@ -1753,11 +1753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\TesteCrud\\TesteCrud.csproj",
+      "projectUniqueName": "C:\\Git\\Git-CICD-Estudo\\TesteCrud.csproj",
       "projectName": "TesteCrud",
-      "projectPath": "C:\\Git\\TesteCrud\\TesteCrud.csproj",
+      "projectPath": "C:\\Git\\Git-CICD-Estudo\\TesteCrud.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\TesteCrud\\obj\\",
+      "outputPath": "C:\\Git\\Git-CICD-Estudo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
